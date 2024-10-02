@@ -14,7 +14,8 @@
   min-height: 600px;
   max-height: 756px;
   /* выше установили ограничения для секции */
-  display:flex; 
+  /* display:flex;  */
+  position:relative;
 }
 
 .header__logo_place_header {
@@ -105,6 +106,7 @@
   line-height: 1.2;
   font-size:18px;
   font-weight: normal;
+  color: #2f80ed;
 }
 
 .two-columns__main-text
@@ -125,6 +127,11 @@
 .two-columns__paragraph_last
 {
   margin-bottom:0;
+}
+
+.two-columns__span-accent
+{
+  font-weight: 600;
 }
 
 /* и элемента с модификатором вида ключ-значение */

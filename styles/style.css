@@ -271,6 +271,7 @@
   position:relative;
   z-index: -2;
   margin-bottom: 0;
+  overflow: hidden;
 }
 
 .digits__section-title_theme_dark
@@ -282,13 +283,13 @@
 .digits__section-subtitle_theme_dark
 {
   color:white;
-  margin-bottom: 80px;
+  /* margin-bottom: 80px; */
 }
 
 .table__cell_theme_dark
 {
   width:200px;
-  margin-bottom:80px; 
+  /* margin-bottom:80px;  */
 }
 
 .table__cell_theme_dark_f
@@ -296,14 +297,11 @@
   margin-bottom: 90px;
 }
 
-.table__headng_theme_dark
-{
-  margin-bottom:20px;
-}
 
-.table__text_theme_dark
-{
 
+.digits__table_theme_dark
+{
+  margin-bottom:90px
 }
 
 .kaufman__triangle

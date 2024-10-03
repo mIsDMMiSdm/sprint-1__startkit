@@ -146,4 +146,33 @@
 .digits
 {
   padding-top:100px;
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.digits__section-title
+{
+  width:60%;
+  text-align:center;
+}
+
+.digits__section
+{
+  margin-top:20px;
+  width:60%;
+  text-align:center;
+}
+
+.digits__table
+{
+  display:flex;
+  flex-wrap: wrap;
+  width:1100px;
+  margin-top:60px;
+}
+
+.table__cell
+{
+  width:250px;
 }

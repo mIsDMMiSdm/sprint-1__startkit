@@ -1,0 +1,9 @@
+.feynman
+{
+  margin-top: 100px;
+  display:flex;
+  position:relative;
+  flex-direction: column;
+  height:890px;
+  /* margin-bottom: 90px; */
+}

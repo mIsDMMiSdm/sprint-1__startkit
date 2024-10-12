@@ -222,7 +222,7 @@
   font-weight:normal;
 }
 
-
+/* + */
 .feynman
 {
   margin-top: 100px;
@@ -233,6 +233,7 @@
   /* margin-bottom: 90px; */
 }
 
+/* + */
 .feynman__title
 {
   position:relative;
@@ -245,6 +246,7 @@
   font-weight:600;
 }
 
+/* + */
 .feynman__subtitle
 {
   align-self: center;
@@ -255,6 +257,7 @@
   font-weight:normal;
 }
 
+/* + */
 .feynman__image
 {
   left:0;
@@ -265,6 +268,7 @@
   z-index: -1;
 }
 
+/* + */
 .feynman__link
 {
   position:absolute;
@@ -277,6 +281,7 @@
   text-decoration: none;
 }
 
+/* + */
 .kaufman
 {
   display:flex;
@@ -288,6 +293,7 @@
   margin-bottom: 0;
   overflow: hidden;
 }
+
 
 .digits__section-title_theme_dark
 {

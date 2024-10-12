@@ -143,7 +143,7 @@
 }
 
 /* и элемента с модификатором вида ключ-значение */
-
+/* + */
 .table__cell_theme_dark {
   width: 200px;
   color: white;
@@ -151,7 +151,7 @@
   margin-top: 80px;
 }
 
-
+/* + */
 .digits
 {
   margin-top:100px;
@@ -160,6 +160,7 @@
   flex-direction: column;
 }
 
+/* + */
 .digits__section-title
 {
   width:60%;
@@ -170,6 +171,7 @@
   margin:auto;
 }
 
+/* + */
 .digits__section-subtitle
 {
   margin-top:20px;
@@ -181,6 +183,7 @@
   font-weight:normal;
 }
 
+/* + */
 .digits__table
 {
   display:flex;
@@ -190,6 +193,7 @@
   justify-content: space-between;
 }
 
+/* + */
 .table__cell
 {
   width:250px;
@@ -200,6 +204,7 @@
 
 }
 
+/* + */
 .table__headng
 {
   margin:0;
@@ -208,6 +213,7 @@
   font-weight:600;
 }
 
+/* + */
 .table__text
 {
   margin-top:20px;

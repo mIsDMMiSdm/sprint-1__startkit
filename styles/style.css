@@ -8,7 +8,7 @@
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-
+/* + */
 .header {
   height: 100vh;
   min-height: 600px;
@@ -18,20 +18,20 @@
   position:relative;
   align-items: center;
 }
-
+/* + */
 .header__logo_place_header {
   position:absolute;
   top:30px;
   left:64px;
   z-index: 2;
 }
-
+/* + */
 .logo 
 {
   width:228px;
   height:32px;
 }
-
+/* + */
 .header__title
 {
   margin-left:64px;
@@ -41,13 +41,13 @@
   line-height: 96px;
   font-weight: 600;
 }
-
+/* + */
 .header__link
 {
   color: #2f80ed;
   text-decoration:none;
 }
-
+/* + */
 .header__subtitle
 {
   position:absolute;
@@ -59,7 +59,7 @@
   font-size:18px;
   font-weight: normal;
 }
-
+/* + */
 .header__main-illustration
 {
   position:absolute;
@@ -75,6 +75,7 @@
 
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
+/* + */
 .header__square-pic {
   height: 568px;
   width: 568px;

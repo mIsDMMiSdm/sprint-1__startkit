@@ -85,7 +85,7 @@
   top:64px;
 }
 
-
+/* + */
 .description
 {
   margin-top:100px;
@@ -94,7 +94,7 @@
   margin-bottom:0;
 }
 
-
+/* + */
 .two-columns {
   display: flex;
   justify-content: center; /* Центрирование по горизонтали */
@@ -102,7 +102,7 @@
   margin: 0 auto;
 }
 
-
+/* + */
 .two-columns__brief
 {
   width:175px;
@@ -113,12 +113,14 @@
   text-decoration: none;
 }
 
+/* + */
 .two-columns__main-text
 {
   width:80%;
   /* min-width: 784px; */
 }
 
+/* + */
 .two-columns__paragraph
 {
   margin: 0;
@@ -128,17 +130,20 @@
   font-weight: normal;
 }
 
+/* + */
 .two-columns__paragraph_last
 {
   margin-bottom:0px;
 }
 
+/* + */
 .two-columns__span-accent
 {
   font-weight: 600;
 }
 
 /* и элемента с модификатором вида ключ-значение */
+
 .table__cell_theme_dark {
   width: 200px;
   color: white;

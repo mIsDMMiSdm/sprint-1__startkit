@@ -1,0 +1,20 @@
+.rotation__square
+{
+    --rotation-angle: 360deg; /* Угол поворота по умолчанию */
+}
+
+@keyframes rotate {
+    from
+    {
+        transform:rotate(0deg);
+    }
+    to 
+    {
+        transform:rotate(var(--rotation-angle));
+    }
+}
+
+.rotation
+{
+  animation: rotate 20s linear infinite;
+}

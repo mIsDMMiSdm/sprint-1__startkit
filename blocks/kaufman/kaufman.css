@@ -6,6 +6,6 @@
   background-color: black;
   position:relative;
   z-index: -2;
-  margin-bottom: 0;
+  margin-bottom: 100px;
   overflow: hidden;
 }

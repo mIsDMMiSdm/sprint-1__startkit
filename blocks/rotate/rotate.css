@@ -10,7 +10,7 @@
     }
     to 
     {
-        transform:rotate(var(--rotation-angle));
+        transform:rotate(360deg);
     }
 }
 
